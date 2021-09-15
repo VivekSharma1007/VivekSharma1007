@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Building myself.
-- 🌱 I’m currently learning Web Dev.
+- 🌱 I’m currently learning Web Development.
 - 📫 How to reach me: Just email me 🙂
 -->
