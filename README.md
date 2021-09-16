@@ -23,3 +23,7 @@
 <a href="https://www.hackerrank.com/viveksharma10_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vivek_Sharma" height="40" width="40" /></a>
 <a href="https://instagram.com/vivek_sharma0710?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vivek_Sharma" height="40" width="40" /></a>
 </p>
+
+
+### Profile visits
+<img src='https://profile-counter.glitch.me/VivekSharma1007/count.svg' width='auto'>
