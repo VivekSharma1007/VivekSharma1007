@@ -13,7 +13,6 @@
 - 📫 How to reach me **Just e-mail me 🎁 viveksharma10.in@gmail.com**
 
 <br>
-<br>
 <p align="left">
 
 
