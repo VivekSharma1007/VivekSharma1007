@@ -6,7 +6,7 @@
 - 🧠 I am currently learning **Web Development**
 
 - 📫 How to reach me **Just e-mail me 🙂**
-<p align="left">
+<p align="center">
 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="70" height="70" />
