@@ -15,6 +15,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50" />
 </p>
 
+## Github Summary
+<!-- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=akgarg0472&theme=darkhub" alt="Akhilesh Garg github quick summary"/></p> -->
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=VivekSharma1007&show_icons=true&theme=gotham&count_private=true" alt="Akhilesh Garg | Stats"></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekSharma1007&&theme=gotham" alt="Akhilesh Garf | Streaks"></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekSharma1007&theme=gotham" alt="Akhilesh Garg | Most used Programming languages"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
