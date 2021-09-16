@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Building myself**
 
-- 👯 I’m looking to collaborate on **anything free and open source**
-
 - 🧠 I am currently learning **Web Development**
 
 - 📫 How to reach me **Just e-mail me 🙂**
