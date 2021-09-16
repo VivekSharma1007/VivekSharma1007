@@ -1,11 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Vivek Sharma</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-<!--
-**VivekSharma1007/VivekSharma1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Building myself**
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on **anything free and open source**
 
-- 🔭 I’m currently working on Building myself.
-- 🌱 I’m currently learning Web Development.
-- 📫 How to reach me: Just email me 🙂
--->
+- 🧠 I am currently learning **Web Development**
+
+- 📫 How to reach me **Just e-mail me 🙂**
