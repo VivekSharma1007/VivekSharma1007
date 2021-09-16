@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Vivek Sharma</h1>
 <h3 align="center">A  developer from India</h3>
+<br>
 
 ![HI](https://user-images.githubusercontent.com/84865211/133631704-6071b816-502f-41bc-8bac-65246aa07962.jpeg)
 
@@ -10,6 +11,9 @@
 - 🧠 I am currently learning: **Problem Solving 🎆 Web Development**
 
 - 📫 How to reach me **Just e-mail me 🎁 viveksharma10.in@gmail.com**
+
+<br>
+<br>
 <p align="left">
 
 
