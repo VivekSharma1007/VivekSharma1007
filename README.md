@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Vivek Sharma</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A  developer from India</h3>
 
 - 🔭 I’m currently working on **Building myself**
 
-- 🧠 I am currently learning **Web Development**
+- 🧠 I am currently learning: **Problem Solving 🎆 Web Development**
 
-- 📫 How to reach me **Just e-mail me 🙂**
+- 📫 How to reach me **Just e-mail me 🎁 viveksharma10.in@gmail.com**
 <p align="left">
 
 
@@ -16,17 +16,19 @@
 </p>
 
 ## Github Summary
-<!-- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=akgarg0472&theme=darkhub" alt="Akhilesh Garg github quick summary"/></p> -->
+
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=VivekSharma1007&show_icons=true&theme=gotham&count_private=true" alt="Akhilesh Garg | Stats"></p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekSharma1007&&theme=gotham" alt="Akhilesh Garf | Streaks"></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekSharma1007&theme=gotham" alt="Akhilesh Garg | Most used Programming languages"></p>
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vivek-sharma10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vivek_Sharma" height="40" width="40" /></a>
-<a href="https://leetcode.com/Vivek_Sharma10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="doyel mishra" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/viveksharma10_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vivek_Sharma" height="40" width="40" /></a>
-<a href="https://instagram.com/vivek_sharma0710?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vivek_Sharma" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/vivek-sharma10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vivek_Sharma" height="35" width="35" /></a>
+<a href="https://leetcode.com/Vivek_Sharma10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="doyel mishra" height="35" width="35" /></a>
+<a href="https://www.hackerrank.com/viveksharma10_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vivek_Sharma" height="35" width="35" /></a>
+<a href="https://instagram.com/vivek_sharma0710?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vivek_Sharma" height="35" width="35" /></a>
 </p>
 
 
