@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 😄 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Vivek Sharma 😀</h1>
-<h3 align="center">Learn and Grow 🥇</h3>
+<h3> Exploring React Js</h3>
 <br>
 
 ![HI](https://user-images.githubusercontent.com/84865211/133631704-6071b816-502f-41bc-8bac-65246aa07962.jpeg)
@@ -11,6 +11,7 @@
 - 🧠 I am currently learning: **Problem Solving 🎆 Web Development**
 - 🤝 I’m looking for opportunities to **grow as a Web Developer**
 - 🥇 Ask me about: **Java & JavaScript**
+- 🥇 **Learn and Grow**
 
 - 📫 How to reach me **Just an e-mail 🎁 viveksharma10.in@gmail.com**
 
