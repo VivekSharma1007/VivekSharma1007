@@ -8,8 +8,8 @@
 
 - 🔭 I’m currently working on **Building myself**
 
-- 🧠 I am currently learning: **Problem Solving 🎆 Web Development**
-- 🤝 I’m looking for opportunities to **grow as a Web Developer**
+- 🧠 I am currently learning: **Web Development 🎆**
+- 🤝 I’m looking for opportunities to **learn and grow as a Software Developer**
 - 🥇 Ask me about: **Java & JavaScript**
 - 🥇 **Learn and Grow**
 
