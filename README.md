@@ -53,7 +53,7 @@
 <br>
 
 <!-- <h2 align = "right">  Profile Visits: </h2> -->
-###      ___________________________________________________________________________________Profile Visits:
+###      ____________________________________________________________________Profile Visits:
 <img align = "right" src='https://profile-counter.glitch.me/VivekSharma1007/count.svg' width='auto'>
 
 
