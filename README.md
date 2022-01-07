@@ -18,7 +18,7 @@
 <br>
 
 ## Languages and Tools:
-<p align="left">
+<p align="center">
 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55" />
@@ -43,7 +43,7 @@
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 ## Connect with me: 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/vivek-sharma10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vivek_Sharma" height="35" width="35" /></a>
 <a href="https://leetcode.com/Vivek_Sharma10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="doyel mishra" height="35" width="35" /></a>
 <a href="https://www.hackerrank.com/viveksharma10_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vivek_Sharma" height="35" width="35" /></a>
