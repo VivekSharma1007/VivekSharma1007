@@ -10,7 +10,7 @@
 
 - 🥇 **Learn and Grow**
 
-- 📫 How to reach me **Just an e-mail 🎁 viveksharma10.in@gmail.com**
+- 📫 Collaborate for projects: **Email at 🎁 viveksharma10.in@gmail.com**
 
 <br>
 
