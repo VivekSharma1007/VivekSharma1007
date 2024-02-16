@@ -1,16 +1,13 @@
 <h1 align="center">Hello World 😄, I'm Vivek Sharma 😀</h1>
-<h3 align="center"> Exploring React Js</h3>
+<h3 align="center"> Exploring the world of technology</h3>
 <br>
 
 ![HI](https://user-images.githubusercontent.com/84865211/133631704-6071b816-502f-41bc-8bac-65246aa07962.jpeg)
 
 
 
-- 🔭 I’m currently working on **Building myself**
+- 🔭 I’m Software Engineer at **Harman Connected Services**
 
-- 🧠 I am currently learning: **Web Development 🎆**
-- 🤝 I’m looking for opportunities to **learn and grow as a Software Developer**
-- 🥇 Ask me about: **Java & JavaScript**
 - 🥇 **Learn and Grow**
 
 - 📫 How to reach me **Just an e-mail 🎁 viveksharma10.in@gmail.com**
