@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 😄, I'm Vivek Sharma 😀</h1>
-<h3 align="center"> Exploring the world of technology</h3>
+<h3 align="center"> Exploring the world of Technology</h3>
 <br>
 
 ![HI](https://user-images.githubusercontent.com/84865211/133631704-6071b816-502f-41bc-8bac-65246aa07962.jpeg)
@@ -7,9 +7,9 @@
 
 
 - 🔭 I’m Software Engineer at **Harman Connected Services**
-
+- 🧑‍💻 Experience in Java, Spring Boot, Microservices, Full-Stack Web Development.
 - 🥇 **Learn and Grow**
-
+  
 - 📫 Collaborate for projects: **Email at 🎁 viveksharma10.in@gmail.com**
 
 <br>
