@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m Software Engineer at **Harman Connected Services**
+- 🔭 I’m Software Engineer at **Harman International**
 - 🧑‍💻 Experience in Java, Spring Boot, Microservices, Full-Stack Web Development.
 - 🥇 **Learn and Grow**
   
